@@ -7,7 +7,7 @@ When saving TMB dumps during data acquisition runs (DAQ) save in this format:
 └── DATE_HV_/
     └── SRC_HOLE_RUN#
 
-example with source:
+example:
 .
 └── 241025_HV3600/
     ├── Cd_hole4_run00
