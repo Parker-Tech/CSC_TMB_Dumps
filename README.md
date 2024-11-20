@@ -1,5 +1,5 @@
 # CSC_TMB_Dumps
-##### TMB dumps related to MiniCSC Ecogas Longevity Project
+TMB dumps related to MiniCSC Ecogas Longevity Project
 
 When saving TMB dumps during data acquisition runs (DAQ) save in this format:
 ```bash
