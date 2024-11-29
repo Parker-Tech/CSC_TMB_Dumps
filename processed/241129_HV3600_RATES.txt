@@ -1,0 +1,11 @@
+Data Runs for 241129_HV3600:
+
+1	Run: Cd_hole2_00	 ALCT Rate: 401.2 Hz	 CLCT Rate: 413.3 Hz	 TMB Rate: 382.3 Hz
+2	Run: Cd_hole4_00	 ALCT Rate: 386.8 Hz	 CLCT Rate: 405.7 Hz	 TMB Rate: 366.3 Hz
+3	Run: Cd_hole6_00	 ALCT Rate: 357.5 Hz	 CLCT Rate: 380.8 Hz	 TMB Rate: 338.7 Hz
+
+Dark Runs for 241129_HV3600:
+
+1	Run: dark_00	 ALCT Rate: 41.8 Hz	 CLCT Rate: 54.4 Hz	 TMB Rate: 21.8 Hz
+2	Run: dark_01	 ALCT Rate: 46.5 Hz	 CLCT Rate: 55.9 Hz	 TMB Rate: 25.0 Hz
+3	Run: dark_02	 ALCT Rate: 38.3 Hz	 CLCT Rate: 47.0 Hz	 TMB Rate: 23.6 Hz
