@@ -1,0 +1,14 @@
+Data Runs for 241202_HV3400_HV3800:
+
+
+Dark Runs for 241202_HV3400_HV3800:
+
+1	Run: dark_00_3400	 ALCT Rate: 22.9 Hz	 CLCT Rate: 30.3 Hz	 TMB Rate: 14.7 Hz
+2	Run: dark_00_3450	 ALCT Rate: 18.1 Hz	 CLCT Rate: 22.3 Hz	 TMB Rate: 13.7 Hz
+3	Run: dark_00_3500	 ALCT Rate: 22.6 Hz	 CLCT Rate: 31.3 Hz	 TMB Rate: 13.6 Hz
+4	Run: dark_00_3550	 ALCT Rate: 27.0 Hz	 CLCT Rate: 32.7 Hz	 TMB Rate: 16.1 Hz
+5	Run: dark_00_3600	 ALCT Rate: 27.9 Hz	 CLCT Rate: 30.4 Hz	 TMB Rate: 18.2 Hz
+6	Run: dark_00_3650	 ALCT Rate: 29.0 Hz	 CLCT Rate: 38.4 Hz	 TMB Rate: 19.5 Hz
+7	Run: dark_00_3700	 ALCT Rate: 32.5 Hz	 CLCT Rate: 39.8 Hz	 TMB Rate: 23.3 Hz
+8	Run: dark_00_3750	 ALCT Rate: 38.0 Hz	 CLCT Rate: 40.6 Hz	 TMB Rate: 24.6 Hz
+9	Run: dark_00_3800	 ALCT Rate: 32.7 Hz	 CLCT Rate: 46.2 Hz	 TMB Rate: 22.8 Hz
